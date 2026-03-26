@@ -14,5 +14,5 @@ Blood Bank Management App to track blood inventory, collection and issue in real
 - SQLite
 
 ## Run the App
-pip install -r requirements.txt  
-streamlit run app.py
+- install -r requirements.txt  
+- streamlit run app.py
